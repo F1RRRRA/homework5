@@ -1,0 +1,10 @@
+^E:\DESKTOP\OTUS\05.HOMEWORK\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -SE:/desktop/otus/05.homework -BE:/desktop/otus/05.homework/build --check-stamp-file E:/desktop/otus/05.homework/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

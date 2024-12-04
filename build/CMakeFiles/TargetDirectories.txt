@@ -1,0 +1,5 @@
+E:/desktop/otus/05.homework/build/CMakeFiles/random_shuffle.dir
+E:/desktop/otus/05.homework/build/CMakeFiles/chrono_example.dir
+E:/desktop/otus/05.homework/build/CMakeFiles/statistics.dir
+E:/desktop/otus/05.homework/build/CMakeFiles/ALL_BUILD.dir
+E:/desktop/otus/05.homework/build/CMakeFiles/ZERO_CHECK.dir

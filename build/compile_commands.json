@@ -1,0 +1,20 @@
+[
+{
+  "directory": "E:/desktop/otus/05.homework/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\random_shuffle.dir\\random_shuffle.cpp.obj -c E:\\desktop\\otus\\05.homework\\random_shuffle.cpp",
+  "file": "E:/desktop/otus/05.homework/random_shuffle.cpp",
+  "output": "CMakeFiles/random_shuffle.dir/random_shuffle.cpp.obj"
+},
+{
+  "directory": "E:/desktop/otus/05.homework/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\chrono_example.dir\\chrono_example.cpp.obj -c E:\\desktop\\otus\\05.homework\\chrono_example.cpp",
+  "file": "E:/desktop/otus/05.homework/chrono_example.cpp",
+  "output": "CMakeFiles/chrono_example.dir/chrono_example.cpp.obj"
+},
+{
+  "directory": "E:/desktop/otus/05.homework/build",
+  "command": "C:\\MinGW\\bin\\g++.exe   -g -std=gnu++17 -o CMakeFiles\\statistics.dir\\statistics.cpp.obj -c E:\\desktop\\otus\\05.homework\\statistics.cpp",
+  "file": "E:/desktop/otus/05.homework/statistics.cpp",
+  "output": "CMakeFiles/statistics.dir/statistics.cpp.obj"
+}
+]

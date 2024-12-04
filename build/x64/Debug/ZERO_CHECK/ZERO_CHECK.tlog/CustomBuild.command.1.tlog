@@ -1,0 +1,10 @@
+^E:\DESKTOP\OTUS\05.HOMEWORK\BUILD\CMAKEFILES\DB836F3ACB9B52E0F6FA0F4C508EFC5B\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\CMake\bin\cmake.exe" -SE:/desktop/otus/05.homework -BE:/desktop/otus/05.homework/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/desktop/otus/05.homework/build/05.homework.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
